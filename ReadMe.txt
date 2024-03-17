@@ -1,3 +1,6 @@
+Liam Stickle 101229165
+Youtube video: https://youtu.be/ejtXmdMo3OM
+
 open pgadmin, make a new database and open the query tool
 click open file, and open the data.sql file provided, then exicute it
 
